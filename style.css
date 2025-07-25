@@ -448,6 +448,7 @@ footer {
     opacity: 1;
   }
 .corner-decoration {
+  background-color:red;
   position: absolute;
   width: 90px;
   height: 90px;
