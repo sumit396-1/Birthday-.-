@@ -37,7 +37,9 @@ body {
 }
 
 #card-inside .wrap {
-  background: #FFEFEF;
+  background: #ffe6f0 url('https://www.transparenttextures.com/patterns/always-grey.png'); /* Light pink with line art pattern */
+  background-size: cover;
+  background-repeat: repeat;
   -webkit-box-shadow: inset 2px 0 1px rgba(0, 0, 0, 0.05);
   box-shadow: inset 2px 0 1px rgba(0, 0, 0, 0.05);
 }
@@ -71,12 +73,13 @@ body {
   color: #FFF;
 }
 
+
 #card-inside {
-  font-size: 1.3em;
-  line-height: 1.4;
-  font-family: 'Lobster';
+  font-size: 1.5em;
+  line-height: 1.6;
+  font-family: sans-serif;
   color: #331717;
-  font-style: italic;
+  font-style: normal;
 }
 
 p {
